@@ -1,5 +1,7 @@
 import { BUY_CAKE } from "./cakeTypes"
 
-const buyCake = () => {
+const buyCake =  {
     type: BUY_CAKE
 }
+
+export default buyCake;
