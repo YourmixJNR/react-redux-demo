@@ -1,1 +1,1 @@
-export const ICE_CREAM = 'ICE_CREAM'
+export const BUY_ICECREAM = 'BUY_ICECREAM';
